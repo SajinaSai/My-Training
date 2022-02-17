@@ -1,2 +1,7 @@
-kiiii
+kiiii add
+<<<<<<< HEAD
 bbbbbbbbbbbbbbbbbbbbbbb
+=======
+kkooo
+uu
+>>>>>>> 83325b6b6b829568264c24d2e00b5a67cd74b6eb
